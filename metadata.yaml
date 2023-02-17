@@ -1,0 +1,55 @@
+_repo: Letters-sentences-and-maxims_69855
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Sayle, Charles
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '40546'
+    url: http://www.gutenberg.org/2009/agents/40546
+  contributor:
+    agent_name: Sainte-Beuve, Charles Augustin
+    aliases:
+    - Delorme, Joseph
+    - Sainte-Beuve, C.-A. (Charles Augustin)
+    - Sainte-Beuve, Charles-Augustin
+    - Sainte-Beuve, C. A.
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5145'
+    url: http://www.gutenberg.org/2009/agents/5145
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
+    - https://fr.wikipedia.org/wiki/Charles-Augustin_Sainte-Beuve
+creator:
+  author:
+    agent_name: Chesterfield, Philip Dormer Stanhope, Earl of
+    alias: Stanhope, Philip Dormer, Earl of Chesterfield
+    birthdate: 1694
+    deathdate: 1773
+    gutenberg_agent_id: '1187'
+    url: http://www.gutenberg.org/2009/agents/1187
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Stanhope%2C_4th_Earl_of_Chesterfield
+description: ''
+gutenberg_issued: '2023-01-22'
+identifiers:
+  gutenberg: '69855'
+language: en
+pgterms:marc904: https://archive.org/details/letterssentences00chesiala
+pgterms:marc905: 20190117004923stanhope
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Turgut Dincer, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: A. L. Burt Company,1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcsh 'Maxims'
+- !lcc 'BJ'
+- GITenberg
+title: Letters, sentences and maxims
+url: http://www.gutenberg.org/ebooks/69855
